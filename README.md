@@ -15,3 +15,8 @@ This is example to show different parts of the Git repo and various commands usi
 This is a simple web project.
 
 ## How To Contribute
+
+
+### Copyright
+
+2024 Git.Training.
