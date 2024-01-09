@@ -16,6 +16,8 @@ This is a simple web project.
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull request for review.
+
 
 ### Copyright
 
